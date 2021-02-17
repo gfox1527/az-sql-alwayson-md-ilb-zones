@@ -150,7 +150,7 @@
       "metadata": {
         "description": "Location of resources that the script is dependent on such as linked templates and DSC modules"
       },
-      "defaultValue": "https://raw.githubusercontent.com/AaronSaikovski/az-sql-alwayson-md-ilb-zones/main/"
+      "defaultValue": "https://raw.githubusercontent.com/gfox1527/az-sql-alwayson-md-ilb-zones/main/"
     },
     "_artifactsLocationSasToken": {
       "type": "securestring",
