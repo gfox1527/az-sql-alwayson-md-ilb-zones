@@ -6,28 +6,28 @@
       "value": "GEN-UNIQUE-8"
     },
     "existingDomainName": {
-      "value": "contoso.com"
+      "value": "gfox.dev"
     },
     "adminUsername": {
-      "value": "AzureAdmin"
+      "value": "gfoxadmin"
     },
     "adminPassword": {
       "value": "GEN-PASSWORD"
     },
     "sqlServiceAccount": {
-      "value": "sqlservice"
+      "value": "genafox"
     },
     "sqlServicePassword": {
       "value": "GEN-PASSWORD"
     },
     "existingVirtualNetworkName": {
-      "value": "vnet01"
+      "value": "sqlvnet01"
     },
     "existingVirtualNetworkRGName": {
-      "value": "rg01"
+      "value": "NetworkLab01"
     },    
     "existingSubnetName": {
-      "value": "sqlSubnet"
+      "value": "sql-vnet-subnet"
     },
     "_artifactsLocation": {
       "value": "<SOME PUBLIC URL>"
